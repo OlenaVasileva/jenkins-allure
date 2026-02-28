@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
-    public class Mesto1Test2 {
+    public class Mesto1Test {
 
         String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTgzYTUwOWIyMDcwNDAwM2RhOTU2YTciLCJpYXQiOjE3NzIxMzI3MDksImV4cCI6MTc3MjczNzUwOX0.R3qHL_xOiI9BQUzK6nD98iitT8GC-WuwqdNbMl85Bjg";
 
